@@ -12,9 +12,7 @@
             "type": "string"
         }
     },
-    "variables": {
-        "COMMENT": "Note, this sample doesn't currently work as expected but we're working on it - it's here because it will likely be fixed and I won't update the repo right away."
-    },
+    "variables": {},
     "resources": [
         {
             "apiVersion": "2017-05-10",
